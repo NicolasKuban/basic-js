@@ -35,8 +35,8 @@ function dateSample(sampleActivity) {
 }
 
 
-a = "15.1"
-console.log(dateSample(a))
+// a = "15.1"
+// console.log(dateSample(a))
 
 module.exports = {
   dateSample
