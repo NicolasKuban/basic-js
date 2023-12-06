@@ -33,11 +33,11 @@ function countCats(matrix) {
   // remove line with error and write your code here
 }
 
-a =   [[0, 1, '^^'],
-      [0, '^^', 2],
-      ['^^', 1, 2]
-      ]
-console.log(countCats(a))
+// a =   [[0, 1, '^^'],
+//       [0, '^^', 2],
+//       ['^^', 1, 2]
+//       ]
+// console.log(countCats(a))
 module.exports = {
   countCats
 };
