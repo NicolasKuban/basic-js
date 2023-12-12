@@ -1,8 +1,8 @@
 const { expect, assert } = require('chai');
 const { testOptional, checkForThrowingErrors, CONSTANTS } = require('../extensions/index.js');
 const { VigenereCipheringMachine } = require('../src/vigenere-cipher.js');
-
 const { CORRECT_RESULT_MSG } = CONSTANTS;
+console.log(CONSTANTS)
 
 it.optional = testOptional;
 
